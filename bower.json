@@ -1,0 +1,20 @@
+{
+  "name": "Hip Donelson Farmer's Market",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hdfm/hdfm.github.io",
+  "authors": [
+    "David Sidlinger <david.sidlinger@gmail.com>"
+  ],
+  "license": "Public Domain",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
