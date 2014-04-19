@@ -265,7 +265,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Sniglet', cursive, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -354,7 +354,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: 'Lily Script One';
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -5771,4 +5771,7 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+.navbar {
+  font-family: 'Lily Script One';
 }
