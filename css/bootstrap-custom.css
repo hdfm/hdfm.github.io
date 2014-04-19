@@ -5775,3 +5775,6 @@ button.close {
 .navbar {
   font-family: 'Lily Script One';
 }
+#pageContainer {
+  background: url("/images/new-fm-background.png") no-repeat right bottom;
+}
