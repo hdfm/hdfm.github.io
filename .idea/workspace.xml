@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd504865-54fc-4fcc-b704-f9c22b88c49f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/new-fm-background.png" afterPath="$PROJECT_DIR$/images/new-fm-background.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-custom.css" afterPath="$PROJECT_DIR$/css/bootstrap-custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/overrides.less" afterPath="$PROJECT_DIR$/css/overrides.less" />
     </list>
@@ -65,7 +66,7 @@
       <file leaf-file-name="overrides.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/overrides.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="87" selection-end="87" vertical-scroll-proportion="0.06324111" vertical-offset="0" max-vertical-offset="1265">
+            <state line="9" column="1" selection-start="217" selection-end="217" vertical-scroll-proportion="0.11383399" vertical-offset="0" max-vertical-offset="1265">
               <folding />
             </state>
           </provider>
@@ -694,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom_variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="369" selection-end="369" vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="88" selection-start="1476" selection-end="1476" vertical-scroll-proportion="-19.84" vertical-offset="0" max-vertical-offset="1792">
@@ -715,9 +709,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="41" selection-start="369" selection-end="369" vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/overrides.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="87" selection-end="87" vertical-scroll-proportion="0.06324111" vertical-offset="0" max-vertical-offset="1265">
+        <state line="9" column="1" selection-start="217" selection-end="217" vertical-scroll-proportion="0.11383399" vertical-offset="0" max-vertical-offset="1265">
           <folding />
         </state>
       </provider>
