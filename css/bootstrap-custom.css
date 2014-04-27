@@ -4358,7 +4358,7 @@ a.list-group-item.active > .badge,
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #ffffff;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -5542,7 +5542,7 @@ button.close {
   margin: 0;
   width: 12px;
   height: 12px;
-  background-color: #ffffff;
+  background-color: #7dc46b;
 }
 .carousel-caption {
   position: absolute;
