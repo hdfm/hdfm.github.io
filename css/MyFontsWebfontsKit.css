@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2837798, 2014-06-30T22:04:25-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Festivo Letters No.14 by Ahmet Altun
+ * URL: http://www.myfonts.com/fonts/ahmet-altun/festivo-letters/no-14/
+ * Copyright: Copyright (c) 2013 by Ahmet Altun. All rights reserved.
+ * Licensed pageviews: 500,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2837798
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2b4d26");
+
+  
+@font-face {font-family: 'FestivoLettersNo14';src: url('/webfonts/2B4D26_0_0.eot');src: url('/webfonts/2B4D26_0_0.eot?#iefix') format('embedded-opentype'),url('/webfonts/2B4D26_0_0.woff') format('woff'),url('/webfonts/2B4D26_0_0.ttf') format('truetype');}
+ 

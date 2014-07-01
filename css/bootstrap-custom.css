@@ -354,7 +354,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Lily Script One';
+  font-family: 'FestivoLettersNo14';
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -5773,7 +5773,7 @@ button.close {
   }
 }
 .navbar {
-  font-family: 'Lily Script One';
+  font-family: 'FestivoLettersNo14';
 }
 body {
   background-image: url("/images/new-fm-background.png");
