@@ -30,6 +30,8 @@ h6 {
 
 ul.navCircle {
     li {
-        font-family: 'Open Sans', sans-serif;
+        a {
+            font-family: 'Open Sans', sans-serif;
+        }
     }
 }
