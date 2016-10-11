@@ -27,3 +27,9 @@ h5 {
 h6 {
     font-family: 'Open Sans', sans-serif;
 }
+
+ul.navCircle {
+    li {
+        font-family: 'Open Sans', sans-serif;
+    }
+}
