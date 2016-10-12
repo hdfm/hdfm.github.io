@@ -2,10 +2,13 @@
 
 body {
     background-color: #d7e6ff;
+    font-family: 'Oswald', sans-serif;
+}
+
+div#page {
     background-image: url('../images/WinterMarketLogo.png');
     background-repeat: no-repeat;
     background-position: -50 -50;
-    font-family: 'Oswald', sans-serif;
 }
 
 div#wrapper {
