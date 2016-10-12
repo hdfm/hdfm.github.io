@@ -3,6 +3,8 @@
 body {
     background-color: #d7e6ff;
     background-image: url('../images/WinterMarketLogo.png');
+    background-repeat: no-repeat;
+    background-position: -50 -50;
     font-family: 'Oswald', sans-serif;
 }
 
