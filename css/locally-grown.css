@@ -5,6 +5,10 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+#wrapper {
+    background-color: transparent;
+}
+
 h1 {
     font-family: 'Open Sans', sans-serif;
 }
