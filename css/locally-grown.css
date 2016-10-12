@@ -9,6 +9,12 @@ div#wrapper {
     background-color: transparent;
 }
 
+div#pageheader {
+    background-color: #617697;
+    border-color: #617697;
+    color: #d7e6ff;
+}
+
 div#navBar {
     background-color: #a9c0e4;
     border-color: #617697;
