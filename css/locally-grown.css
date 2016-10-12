@@ -9,6 +9,11 @@ div#wrapper {
     background-color: transparent;
 }
 
+div#navBar {
+    background-color: #a9c0e4;
+    border-color: #617697;
+}
+
 h1 {
     font-family: 'Open Sans', sans-serif;
 }
